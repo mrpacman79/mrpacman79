@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mr. Pacman</h1>
 <h3 align="center">A passionate Software Developer from Indonesia.</h3>
 
-- 🌱 I’m currently learning **Microservice**
+- 🌱 I’m currently learning **Microservices**
 
 <p align="left">
 </p>
